@@ -1,0 +1,10 @@
+enum Menu {
+  FIRED_EGGS,
+  FIRED_BREAD_IN_MILK,
+  TOASTERS,
+  OMELETTE,
+  TEA,
+  COFFEE,
+  WATER,
+  JUICE
+}
